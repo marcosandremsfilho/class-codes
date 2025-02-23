@@ -22,7 +22,4 @@ This repository contains code developed throughout my university courses. It ser
 
 This repository is primarily for personal academic use, but if you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
----
-
-**Disclaimer:** Some code may be adapted from course materials or external sources. Always ensure academic integrity when using these resources.
 
